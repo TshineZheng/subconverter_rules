@@ -1,0 +1,9 @@
+# 内容：新必应与Edge边栏解锁
+DOMAIN,edgeservices.bing.com
+DOMAIN,www.bing.com
+DOMAIN,assets.msn.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN,sydney.bing.com
+DOMAIN-KEYWORD,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN,functional.events.data.microsoft.com
