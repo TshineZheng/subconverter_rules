@@ -1,3 +1,3 @@
 # 自定义
-archive.org
-cloudfront.net
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,cloudfront.net
