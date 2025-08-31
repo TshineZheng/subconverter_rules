@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,groq.com
+# MakerWorld 国际
+DOMAIN-SUFFIX,makerworld.com
+DOMAIN-SUFFIX,bblmw.com
